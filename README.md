@@ -34,13 +34,6 @@ CIFAR-100-LT (CE-DRW + DisA):
 ```
 python cifar_train.py --dataset cifar100 --num_classes 100 --loss_type CE --train_rule DRW --lamda 0.1 --gpu 0
 ```
-### ImageNet-LT
-
-ERM + OTmix:
-
-```
-python imagenet_train.py --root path --dataset Imagenet-LT --num_classes 1000 --loss_type ERM --train_rule None --epochs 200 --data_aug OT
-```
 
 ## Evaluation
 
