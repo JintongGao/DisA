@@ -21,7 +21,7 @@ best_acc1 = 0
 def main():
     args = parser.parse_args()
     args.store_name = '_'.join(
-        [str('lamda'), str(args.lamda), args.dataset, str(args.imb_factor), args.loss_type, args.train_rule, args.data_aug, str(args.epochs), str(args.batch_size)])
+        [args.dataset, str(args.imb_factor), args.loss_type, args.train_rule, args.data_aug, str(args.epochs), str(args.batch_size), str(args.lamda)])
     prepare_folders(args)
 
     if args.gpu is not None:
