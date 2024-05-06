@@ -65,8 +65,10 @@ url={https://openreview.net/pdf?id=Hjwx3H6Vci}
 ```
 ## Acknowledgement
 
-[ETF-DR](https://github.com/NeuralCollapseApplications/ImbalancedLearning): 
+[ETF-DR](https://github.com/NeuralCollapseApplications/ImbalancedLearning)
+
 [INC](https://github.com/Pepper-lll/NCfeature)
+
 [RBL](https://gitee.com/gaopeifeng/rbl)
 
 ## Contact
