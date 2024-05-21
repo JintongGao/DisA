@@ -52,8 +52,7 @@ Gao2024DisA,
 title={Distribution Alignment Optimization through Neural Collapse for Long-tailed Classification},
 author={Jintong Gao and He Zhao and Dandan Guo and Hongyuan Zha},
 booktitle={International Conference on Machine Learning (ICML)},
-year={2024},
-url={https://openreview.net/pdf?id=Hjwx3H6Vci}
+year={2024}
 }
 ```
 ## Acknowledgement
