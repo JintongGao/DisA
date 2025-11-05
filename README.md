@@ -67,4 +67,4 @@ year={2024}
 
 If you have any questions when running the code, please feel free to concat us by emailing
 
-+ Jintong Gao ([gaojt20@mails.jlu.edu.cn](mailto:gaojt20.mails.jlu.edu.cn))
++ Jintong Gao ([gaojt23@mails.jlu.edu.cn](mailto:gaojt23.mails.jlu.edu.cn))
